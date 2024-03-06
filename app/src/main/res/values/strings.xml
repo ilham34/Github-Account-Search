@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Github Expert</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="query_hint">Please enter username</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="location">Location</string>
+    <string name="share">Share</string>
+    <string name="repository">Repos</string>
+    <string name="no_user">There\'s no %1$s</string>
+    <string name="sharew">Share with</string>
+    <string name="value_share">Checkout this GitHub User : %1$s</string>
+    <string name="find_user">Find User!</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_name">No Name</string>
+    <string name="no_company">No Company</string>
+    <string name="no_location">No Location</string>
+
+    <string-array name="tab_title">
+        <item>"Followers"</item>
+        <item>"Following"</item>
+    </string-array>
+    <string name="no_favorite">There\'s no favorite user yet. \nLook for a great user to be favorited.</string>
+
+    <string name="no_data">Empty data</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+</resources>
