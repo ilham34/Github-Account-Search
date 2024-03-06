@@ -5,7 +5,6 @@
     <string name="query_hint">Please enter username</string>
     <string name="following">Following</string>
     <string name="follower">Follower</string>
-    <string name="location">Location</string>
     <string name="share">Share</string>
     <string name="repository">Repos</string>
     <string name="no_user">There\'s no %1$s</string>
@@ -23,6 +22,5 @@
     </string-array>
     <string name="no_favorite">There\'s no favorite user yet. \nLook for a great user to be favorited.</string>
 
-    <string name="no_data">Empty data</string>
     <string name="something_wrong">Oops.. something went wrong</string>
 </resources>
